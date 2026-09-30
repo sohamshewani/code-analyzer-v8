@@ -1,0 +1,1 @@
+Documentation for the code-analyzer CLI tool, detailing its architecture and components.

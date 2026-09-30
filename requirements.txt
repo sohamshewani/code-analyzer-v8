@@ -1,0 +1,6 @@
+click
+astroid
+coverage
+pytest
+sqlite3
+pytest-mock
